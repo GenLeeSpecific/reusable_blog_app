@@ -15,8 +15,8 @@ setup(
     description='A simple Django app to create blogs',
     long_description=README,
     url='http://www.example.com',
-    author='Aaron',
-    author_email='aaron@codeinstitute.net',
+    author='Will',
+    author_email='willmclg@gmail.com',
     classifiers=[
         'Environment :: Web Development',
         'Framework :: Django',
